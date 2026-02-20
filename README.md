@@ -1,3 +1,4 @@
+
 # 🏙️ Property Valuation & Deal-Scoring Pipeline
 
 ### An End-to-End Data Pipeline to Identify Undervalued Property Listings
@@ -48,8 +49,8 @@ D -->|Visuals| E[User Insights]
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/Property-Valuation-Deal-Scoring-Pipeline.git
-cd chennai-real-estate-engine
+git clone https://github.com/navinvishwa07/Property-Valuation-Deal-Scoring-Pipeline.git
+cd Property-Valuation-Deal-Scoring-Pipeline
 
 ```
 
